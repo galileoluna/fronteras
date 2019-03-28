@@ -1,0 +1,2 @@
+5. El atributo "cantidad de poblacion" lo modelamos como int en la tabla pais, y representa la población estimada actual, datos que sacamos del archivo excel.
+Despues aparece de nuevo en el censo, que representa la cantidad de personas totales del pais, al momento de tomar el censo.
